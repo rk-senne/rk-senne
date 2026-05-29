@@ -1,28 +1,68 @@
-<pre>                     _______      __    __   __  ___                __          __         ____                       
-                    / ____(_)__  / /___/ /  /  |/  /___ ___________/ /_  ____ _/ /  ____  / __/                       
-                   / /_  / / _ \/ / __  /  / /|_/ / __ `/ ___/ ___/ __ \/ __ `/ /  / __ \/ /_                         
-                  / __/ / /  __/ / /_/ /  / /  / / /_/ / /  (__  ) / / / /_/ / /  / /_/ / __/                         
-                 /_/   /_/\___/_/\__,_/  /_/  /_/\__,_/_/  /____/_/ /_/\__,_/_/   \____/_/                            
-                                                                                                                      
-  ________            ___                                            ______         __                __  _           
- /_  __/ /_  ___     /   |  _________  ___  _________ ____  _____   / ____/__  ____/ /__  _________ _/ /_(_)___  ____ 
-  / / / __ \/ _ \   / /| | / ___/ __ \/ _ \/ ___/ __ `/ _ \/ ___/  / /_  / _ \/ __  / _ \/ ___/ __ `/ __/ / __ \/ __ \
- / / / / / /  __/  / ___ |(__  ) /_/ /  __/ /  / /_/ /  __/ /     / __/ /  __/ /_/ /  __/ /  / /_/ / /_/ / /_/ / / / /
-/_/ /_/ /_/\___/  /_/  |_/____/ .___/\___/_/   \__, /\___/_/     /_/    \___/\__,_/\___/_/   \__,_/\__/_/\____/_/ /_/ 
-                             /_/              /____/                                                                  </pre>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
 
-<!--
-**rk-senne/rk-senne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Character Sheet
 
-Here are some ideas to get you started:
+**Name:** Regomoditswe "Rego" Senne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Title:** Field Marshal of the Asperger Federation
 
+**Class:** Software Engineer
+
+**Subclass:** Product Builder
+
+**Faction:** Divergent
+
+**Origin:** Unknown
+
+**Current Base** South Africa 
+
+**Level:** 27
+
+---
+
+### Attributes
+
+| Attribute     | Value      |
+| ------------- | ---------- |
+| Strategy ♟️   | ██████████ |
+| Curiosity 🧠  | ██████████ |
+| Discipline ⚔️ | ████████░░ |
+| Coding 💻     | ████████░░ |
+| Design 🎨     | ███████░░░ |
+| Leadership 👑 | ██████░░░░ |
+
+---
+
+### Active Quests
+
+* Master Java & Spring
+* Learn System Design
+* Earn AWS Certifications
+* Build RNF
+* Reach 1800+ Chess Rating
+
+---
+
+### Skills
+
+* Java
+* Spring Boot
+* JavaScript
+* TypeScript
+* Swift
+* SQL
+* Docker
+* AWS
+* Figma
+
+---
+
+### Character Lore
+
+Builder of useful things, breaker of confusing nonsense,
+and occasional chess menace.
+
+Currently forging software, systems, and ideas into
+something worth remembering.
