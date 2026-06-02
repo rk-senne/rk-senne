@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+  <img src="./assets/banner.png" alt="Rego K. Senne Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="./assets/techno.gif" alt="Tech Core" width="120">
 </p>
 
 <div align="center">
@@ -19,17 +23,11 @@
 ## 📜 Character Sheet
 
 **Name:** Regomoditswe "Rego" Senne
-
 **Class:** Software Engineer
-
 **Subclass:** Product Builder
-
 **Faction:** Rise & Forge
-
 **Current Base:** South Africa 🇿🇦
-
 **Level:** 27
-
 **Next Evolution:** Loading...
 
 </div>
@@ -41,10 +39,8 @@
 ## 🛰 Status
 
 **Alignment:** Chaotic Productive
-
-**Current Objective:** Forge systems worth remembering.
-
-**Current Threat:** Comfort.
+**Current Objective:** Forge systems worth remembering
+**Current Threat:** Comfort
 
 </div>
 
@@ -71,7 +67,7 @@ Leadership    ██████░░░░
 
 ## ⚔ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,swift,postgres,docker,aws,figma,go,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,swift,postgres,docker,aws,figma,go,git,github&perline=6" />
 
 </div>
 
@@ -81,10 +77,9 @@ Leadership    ██████░░░░
 
 ## 🚧 Current Build
 
-### RNF (Rise & Forge)
+### RNF — Rise & Forge
 
-A personal development platform focused on habits,
-discipline, progression, and self-mastery.
+A personal development platform focused on habits, discipline, progression, and self-mastery.
 
 </div>
 
@@ -126,17 +121,12 @@ discipline, progression, and self-mastery.
 ## 📜 Character Lore
 
 Chess player.
-
 Engineer.
-
 Builder.
 
-Obsessed with understanding systems,
-whether they exist in software, business,
-or the human mind.
+Obsessed with understanding systems, whether they exist in software, business, or the human mind.
 
-Currently forging software, ideas,
-and a future worth remembering.
+Currently forging software, ideas, and a future worth remembering.
 
 </div>
 
@@ -144,19 +134,7 @@ and a future worth remembering.
 
 <div align="center">
 
-## 📈 Battle Statistics
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rk-senne&show_icons=true&theme=tokyonight" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-senne&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Motto
+## ⚡ Motto
 
 *"Build like an engineer. Think like a strategist. Move like a founder."*
 
