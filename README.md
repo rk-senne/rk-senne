@@ -2,7 +2,9 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-## Character Sheet
+<div align="center">
+
+# ⚔ Character Sheet
 
 **Name:** Regomoditswe "Rego" Senne
 
@@ -14,15 +16,15 @@
 
 **Faction:** Divergent
 
-**Origin:** Unknown
-
-**Current Base** South Africa 
+**Current Base:** South Africa 🇿🇦
 
 **Level:** 27
 
+**Next Evolution:** Loading...
+
 ---
 
-### Attributes
+## 📊 Attributes
 
 | Attribute     | Value      |
 | ------------- | ---------- |
@@ -35,34 +37,27 @@
 
 ---
 
-### Active Quests
+## ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,swift,postgres,docker,aws,figma,go,git,github" />
+
+---
+
+## 🎯 Active Quests
 
 * Master Java & Spring
 * Learn System Design
+* Learn GO
 * Earn AWS Certifications
 * Build RNF
-* Reach 1800+ Chess Rating
+* Reach 2600+ Chess Rating
 
 ---
 
-### Skills
+## 📜 Character Lore
 
-* Java
-* Spring Boot
-* JavaScript
-* TypeScript
-* Swift
-* SQL
-* Docker
-* AWS
-* Figma
+Builder of useful things, breaker of confusing nonsense, and occasional chess menace.
 
----
+Currently forging software, systems, and ideas into something worth remembering.
 
-### Character Lore
-
-Builder of useful things, breaker of confusing nonsense,
-and occasional chess menace.
-
-Currently forging software, systems, and ideas into
-something worth remembering.
+</div>
