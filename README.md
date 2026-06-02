@@ -22,13 +22,13 @@
 
 ## 📜 Character Sheet
 
-* **Name:** Regomoditswe "Rego" Senne
-* **Class:** Software Engineer
-* **Subclass:** Product Builder
-* **Faction:** Rise & Forge
-* **Current Base:** South Africa 🇿🇦
-* **Level:** 27
-* **Next Evolution:** Loading...
+- **Name:** Regomoditswe "Rego" Senne
+- **Class:** Software Engineer
+- **Subclass:** Product Builder
+- **Faction:** Rise & Forge
+- **Current Base:** South Africa 🇿🇦
+- **Level:** 27
+- **Next Evolution:** Loading...
 
 </div>
 
