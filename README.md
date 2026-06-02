@@ -22,13 +22,13 @@
 
 ## 📜 Character Sheet
 
-**Name:** Regomoditswe "Rego" Senne
-**Class:** Software Engineer
-**Subclass:** Product Builder
-**Faction:** Rise & Forge
-**Current Base:** South Africa 🇿🇦
-**Level:** 27
-**Next Evolution:** Loading...
+* **Name:** Regomoditswe "Rego" Senne
+* **Class:** Software Engineer
+* **Subclass:** Product Builder
+* **Faction:** Rise & Forge
+* **Current Base:** South Africa 🇿🇦
+* **Level:** 27
+* **Next Evolution:** Loading...
 
 </div>
 
@@ -89,12 +89,12 @@ A personal development platform focused on habits, discipline, progression, and 
 
 ## 🎯 Active Quests
 
- [ ] Learn Go
- [ ] Build RNF
- [ ] Master Java & Spring
- [ ] Learn System Design
- [ ] Earn AWS Certifications
- [ ] Reach 2600+ Chess Rating
+ * [ ] Learn Go
+ * [ ] Build RNF
+ * [ ] Master Java & Spring
+ * [ ] Learn System Design
+ * [ ] Earn AWS Certifications
+ * [ ] Reach 2600+ Chess Rating
 
 </div>
 
