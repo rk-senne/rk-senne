@@ -45,12 +45,12 @@
 
 ## 🎯 Active Quests
 
-* Master Java & Spring
-* Learn System Design
-* Learn GO
-* Earn AWS Certifications
-* Build RNF
-* Reach 2600+ Chess Rating
+Learn GO
+Build RNF
+Master Java & Spring
+Learn System Design
+Earn AWS Certifications
+Reach 2600+ Chess Rating
 
 ---
 
