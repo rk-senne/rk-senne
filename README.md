@@ -50,8 +50,6 @@
 
 ## 📊 Attributes
 
-</div>
-
 ```text
 Strategy      ██████████
 Curiosity     ██████████
@@ -60,6 +58,8 @@ Coding        ████████░░
 Design        ███████░░░
 Leadership    ██████░░░░
 ```
+
+</div>
 
 ---
 
@@ -89,30 +89,14 @@ A personal development platform focused on habits, discipline, progression, and 
 
 ## 🎯 Active Quests
 
+ [ ] Learn Go
+ [ ] Build RNF
+ [ ] Master Java & Spring
+ [ ] Learn System Design
+ [ ] Earn AWS Certifications
+ [ ] Reach 2600+ Chess Rating
+
 </div>
-
-* [ ] Learn Go
-* [ ] Build RNF
-* [ ] Master Java & Spring
-* [ ] Learn System Design
-* [ ] Earn AWS Certifications
-* [ ] Reach 2600+ Chess Rating
-
----
-
-<details>
-<summary><b>📚 Learning Path</b></summary>
-
-<br>
-
-* AWS Solutions Architect
-* System Design
-* Go
-* Trading
-* Mobile Development
-* Software Architecture
-
-</details>
 
 ---
 
